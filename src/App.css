@@ -1,0 +1,15 @@
+@import "~@flaticon/flaticon-uicons/css/all/all";
+
+nav{
+  display: flex;
+  max-width: 80%;
+  justify-content: space-between;
+}
+.mini-logo{
+  width: 100px;
+}
+.nav-list{
+  display: flex;
+  list-style: none;
+  gap: 15px;
+}
