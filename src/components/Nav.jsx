@@ -10,7 +10,8 @@ export default function Nav(){
                 <li href="#">FIND A MINI CENTRE</li>
                 <li href="#">TEST DRIVE</li>
                 <li href="#">BUY</li>
-            </ul>
+            </ul> 
+            <img src="/images/location.png" alt="See Locations" className="pin" />           
         </nav>
     )
 }

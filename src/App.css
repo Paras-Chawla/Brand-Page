@@ -1,9 +1,7 @@
-@import "~@flaticon/flaticon-uicons/css/all/all";
 
 nav{
   display: flex;
-  max-width: 80%;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 .mini-logo{
   width: 100px;
@@ -12,4 +10,10 @@ nav{
   display: flex;
   list-style: none;
   gap: 15px;
+  margin: auto;
+}
+.pin{
+  display: flex;
+  height: 40px;
+  margin: auto;
 }
